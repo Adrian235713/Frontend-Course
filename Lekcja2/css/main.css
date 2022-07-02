@@ -1,0 +1,42 @@
+* {
+    font-size: small;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+h1 { 
+    font-size: large;
+}
+
+div {
+    background-color: darkgray;
+}
+
+.subtitle {
+    color: chartreuse;
+}
+
+
+.class-p-1 {
+    color: brown;
+}
+
+#id-p-2 {
+    color: darkblue;
+}
+
+
+.h3_style {
+    color: blueviolet;
+}
+
+.h3_style {
+    color: brown;
+}
+
+.h3_style {
+    color: darkgray;
+}
